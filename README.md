@@ -1,1 +1,1 @@
-# corba-echo
+# Corba
